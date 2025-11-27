@@ -1,0 +1,7 @@
+commands for pygame
+
+
+pip install pyinstaller
+cd "C:\Users\Administrator\Desktop\game"
+pyinstaller main.py
+pyinstaller --onefile main.py

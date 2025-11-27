@@ -1,0 +1,21 @@
+import datetime as d
+import random as r
+from math import sqrt.
+import math
+import matplotlib.pyplot as plt
+import pyttsx3
+import speech_recognition as sr
+import pywhatkit
+import webbrowser as wb
+import os
+import pygame 
+from flask import Flask, render_template
+import http.server
+import socketserver  
+import google.generativeai as genai
+import streamlit as st
+import pandas as pd
+from twilio.rest import Client
+import smtplib
+import ssl
+from email.message import EmailMessage
