@@ -3,7 +3,7 @@ import ssl
 from email.message import EmailMessage
 
 EMAIL = "siddhantyad12@gmail.com"
-APP_PASSWORD = "bqtb nmjy fhjx dthv"
+APP_PASSWORD = ""
 RECEIVER = "karanthenit261104@gmail.com"
 
 msg = EmailMessage()
